@@ -40,8 +40,8 @@ async def ban(ctx, member: discord.Member):
 async def socials(ctx):
 
     await ctx.send (f'My Twitch: https://www.twitch.tv/lurinoxi')
-    await ctx.send (f'My Twitter: https://www.twitch.tv/lurinoxi')
-    await ctx.send (f'My Instagram: https://www.twitch.tv/lurinoxi')
+    await ctx.send (f'My Twitter: https://twitter.com/MaaxyBaxy')
+    await ctx.send (f'My Instagram: https://www.instagram.com/lurinoxii/')
 
 @bot.event
 async def on_member_join(member):
